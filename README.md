@@ -1,0 +1,2 @@
+# winsAll
+Ali wins all
